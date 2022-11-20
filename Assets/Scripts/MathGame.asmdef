@@ -1,0 +1,19 @@
+{
+    "name": "MathGame",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:0046de5c905aeff408e019011d80d21e",
+        "GUID:486904fa5646a594c98bfc93d67e841d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
